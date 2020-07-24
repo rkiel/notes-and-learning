@@ -11,5 +11,9 @@
 ```
 
 ```css
-font-family: "Roboto", sans-serif;
+.one {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+}
 ```
