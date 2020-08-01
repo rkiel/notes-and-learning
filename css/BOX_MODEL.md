@@ -1,6 +1,8 @@
 # Box Model
 
-- (Box Model)[https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model]
+- Everything is a box
+
+* [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 Every element has:
 

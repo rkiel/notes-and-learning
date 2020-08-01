@@ -2,7 +2,7 @@
 
 ## Pseudo Class
 
-(MDN)[https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes]
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 - define style of a special state of an element
 
@@ -14,6 +14,17 @@
   a:active {
     color: white;
   }
+}
+```
+
+### not
+
+- represents elements that do not match a list of selectors
+- always better to use a positive case rather than the negative (i.e. performance, bugginess)
+
+```css
+:not(p) {
+  color: blue;
 }
 ```
 

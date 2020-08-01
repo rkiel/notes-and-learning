@@ -1,7 +1,7 @@
 # Fonts
 
-- (CSS font-family)[https://developer.mozilla.org/en-US/docs/Web/CSS/font-family]
-- (Google Fonts)[https://fonts.google.com/]
+- [CSS font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+- [Google Fonts](https://fonts.google.com/)
 
 ```html
 <link

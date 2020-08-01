@@ -59,6 +59,10 @@
 }
 ```
 
+### Box
+
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+
 ## Short Hand
 
 ### Border - order does not matter
@@ -68,6 +72,7 @@
   border-width: 2px;
   border-style: solid;
   border-color: orange;
+  border-radius: 5px;
 }
 .two {
   border: 2px solid orange;
